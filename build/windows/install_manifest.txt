@@ -1,0 +1,12 @@
+C:/Users/wubru/Documents/Flutter/flutter_cac_project/build/windows/runner/Debug/data/icudtl.dat
+C:/Users/wubru/Documents/Flutter/flutter_cac_project/build/windows/runner/Debug/flutter_windows.dll
+C:/Users/wubru/Documents/Flutter/flutter_cac_project/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Users/wubru/Documents/Flutter/flutter_cac_project/build/windows/runner/Debug/data/flutter_assets/AssetManifest.smcbin
+C:/Users/wubru/Documents/Flutter/flutter_cac_project/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/Users/wubru/Documents/Flutter/flutter_cac_project/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Users/wubru/Documents/Flutter/flutter_cac_project/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/Users/wubru/Documents/Flutter/flutter_cac_project/build/windows/runner/Debug/data/flutter_assets/lib/Images/apple.png
+C:/Users/wubru/Documents/Flutter/flutter_cac_project/build/windows/runner/Debug/data/flutter_assets/lib/Images/google-logo-png-google-icon-logo-png-transparent-svg-vector-bie-supply-14.png
+C:/Users/wubru/Documents/Flutter/flutter_cac_project/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/Users/wubru/Documents/Flutter/flutter_cac_project/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/Users/wubru/Documents/Flutter/flutter_cac_project/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag
