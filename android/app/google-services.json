@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "550588140059",
+    "project_id": "cacauth-da55b",
+    "storage_bucket": "cacauth-da55b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550588140059:android:54aa2cdba35f39d7aac6be",
+        "android_client_info": {
+          "package_name": "com.example.flutter_cac_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550588140059-giga6ql4pcvrjdvbijlqq0cr7301mbg6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq5cNXw3VYX1tKgcZKy60sZBlNOl-xsHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550588140059-giga6ql4pcvrjdvbijlqq0cr7301mbg6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
